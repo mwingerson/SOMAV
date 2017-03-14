@@ -1,0 +1,70 @@
+{
+    "MAV_AUTOPILOT": 3,
+    "complexItems": [
+        {
+            "cameraTrigger": false,
+            "cameraTriggerDistance": 25,
+            "gridAltitude": 25,
+            "gridAltitudeRelative": true,
+            "gridAngle": 143,
+            "gridSpacing": 3,
+            "id": 2,
+            "polygon": [
+                [
+                    46.718194590000003,
+                    -117.17664462
+                ],
+                [
+                    46.717790909999998,
+                    -117.17620884999999
+                ],
+                [
+                    46.718337470000002,
+                    -117.17510265999999
+                ],
+                [
+                    46.718744139999998,
+                    -117.17555591999999
+                ]
+            ],
+            "type": "survey",
+            "version": 1
+        }
+    ],
+    "groundStation": "QGroundControl",
+    "items": [
+        {
+            "autoContinue": true,
+            "command": 22,
+            "coordinate": [
+                46.71780785,
+                -117.17627548999999,
+                25
+            ],
+            "frame": 2,
+            "id": 1,
+            "param1": 15,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        }
+    ],
+    "plannedHomePosition": {
+        "autoContinue": true,
+        "command": 16,
+        "coordinate": [
+            46.718135594444959,
+            -117.17667109083168,
+            0
+        ],
+        "frame": 0,
+        "id": 0,
+        "param1": 0,
+        "param2": 0,
+        "param3": 0,
+        "param4": 0,
+        "type": "missionItem"
+    },
+    "version": "1.0"
+}
